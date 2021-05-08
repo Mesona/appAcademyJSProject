@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "babel-loader": "^8.0.5",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
